@@ -1,0 +1,10 @@
+antecedent,consequent,support,confidence,lift,count_AB,count_A,count_B
+pasta,tomato_sauce,0.062,0.7561,4.7256,31,41,80
+cereal,milk,0.108,0.8182,4.4955,54,66,91
+milk,cereal,0.108,0.5934,4.4955,54,91,66
+chicken,rice,0.084,0.6462,4.1958,42,65,77
+rice,chicken,0.084,0.5455,4.1958,42,77,65
+coffee,sugar,0.072,0.5625,3.4722,36,64,81
+diapers,beer,0.056,0.56,3.2941,28,50,85
+chips,soda,0.084,0.5526,3.1047,42,76,89
+bread,butter,0.09,0.6338,2.9896,45,71,106
