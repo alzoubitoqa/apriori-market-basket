@@ -1,4 +1,6 @@
 🧺 Apriori Market Basket Analyzer
+
+
 📌 Project Overview
 
 This project implements the Apriori algorithm to perform Market Basket Analysis on transactional datasets.
@@ -214,6 +216,7 @@ Han, Kamber, Pei — Data Mining: Concepts and Techniques
 **Toqa Mahmoud Tawfiq Al-Zoubi**
 
 GitHub: https://github.com/alzoubitoqa
+
 
 
 
